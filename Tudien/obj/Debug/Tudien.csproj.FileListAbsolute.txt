@@ -1,0 +1,10 @@
+D:\Data\Visual Studio\Projects\Tudien\Tudien\bin\Debug\Tudien.exe.config
+D:\Data\Visual Studio\Projects\Tudien\Tudien\bin\Debug\Tudien.exe
+D:\Data\Visual Studio\Projects\Tudien\Tudien\bin\Debug\Tudien.pdb
+D:\Data\Visual Studio\Projects\Tudien\Tudien\obj\Debug\Tudien.Form1.resources
+D:\Data\Visual Studio\Projects\Tudien\Tudien\obj\Debug\Tudien.Properties.Resources.resources
+D:\Data\Visual Studio\Projects\Tudien\Tudien\obj\Debug\Tudien.csproj.GenerateResource.Cache
+D:\Data\Visual Studio\Projects\Tudien\Tudien\obj\Debug\Tudien.exe
+D:\Data\Visual Studio\Projects\Tudien\Tudien\obj\Debug\Tudien.pdb
+D:\Data\Visual Studio\Projects\Tudien\Tudien\obj\Debug\Tudien.Form2.resources
+D:\Data\Visual Studio\Projects\Tudien\Tudien\obj\Debug\Tudien.csprojResolveAssemblyReference.cache
